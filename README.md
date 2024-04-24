@@ -6,7 +6,7 @@
 | Tharun Kumar P | PES2UG20CS576    |
 | Vaibhavi Bhalke     | PES2UG21CS586  |
 | Y L Krishna Pani           | PES2UG21CS616   |
-| VEda P     | PES2UG21CS599   |
+| Veda P     | PES2UG21CS599   |
 
 ## Problem Statement
 Secure File Sharing P2P application. Developed using SpringMVC framework, built using Maven.
@@ -19,7 +19,7 @@ Secure File Sharing P2P application. Developed using SpringMVC framework, built 
 
  - Change the Current Directory
  ```
- cd File-Sharing-System
+ cd Secure_File_Sharing_System
  ```
  - Install the Maven Package for the Project
  ```
